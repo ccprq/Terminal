@@ -1,7 +1,12 @@
 [My YouTube Channel](https://www.youtube.com/@prabex)
 
 
+
 # Terminal.dll Gradient Generator
+
+Opacity %88
+
+![GitHub Logo](term.png)
 
 _Main method for Settings._
 
